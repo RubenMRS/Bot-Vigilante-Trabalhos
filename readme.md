@@ -44,7 +44,6 @@ Um bot de Telegram interativo craido em Python que pesquisa vagas no site **Net-
 2.  Encontra a variável `TOKEN` nas primeiras linhas.
 3.  Substitui `"COLA_O_TEU_TOKEN_AQUI"` pelo token que recebeste do **@BotFather** no Telegram.
 
-```python
 # Exemplo:
 TOKEN = "123456789:ABCdefGHIjklMNOpqrsTUVwxyz"
 ▶️ Como Usar
